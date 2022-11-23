@@ -3,9 +3,11 @@
 This assignment asks you to do topic modeling via LDA. Follow the example in the code I walked
 through in the video. Create a notebook of your own and choose a corpus to analyze. 
 
-You can use corpora based on Twitter data from the data set shares, NY Times articles, 
-the convention transcripts, or any other source you like. Ideally you'd have at least 
-3-4 groups represented. You don't need to limit your number of topics to the number
+You're looking for a corpus with lots of text on a relatively limited number of themes. 
+So congressional speeches are a good candidate, or a slice of reddit or wikipedia data. This
+might be a good time to explore some of the 
+[prepared data sets on Kaggle with the NLP tag](https://www.kaggle.com/datasets?sort=votes&tags=13204-NLP).  
+You don't need to limit your number of topics to the number
 of groups you have. 
 
 Once you've chosen your corpus, do the following: 
